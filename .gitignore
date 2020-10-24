@@ -1,0 +1,6 @@
+.idea
+target
+*.iml
+
+#things that we don't want to place in github ,
+#this file will minimize the conflict when merging the code to the branch
